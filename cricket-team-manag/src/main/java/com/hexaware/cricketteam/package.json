@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@ngrx/effects": "^15.4.0",
+    "@ngrx/schematics": "^15.4.0",
+    "@ngrx/store": "^15.4.0",
+    "@ngrx/store-devtools": "^15.4.0",
+    "bootstrap": "^5.3.3",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
